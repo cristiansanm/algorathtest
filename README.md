@@ -7,10 +7,11 @@ This is a project made with Expo and React Native, it is a simple app that allow
 ## Installation
 
 1. Clone the repository
-2. Run `yarn` or `npm install` to install the dependencies
-3. Run `yarn start` or `npm start` to start the project
-4. Download the Expo Go app on your phone
-5. Scan the QR code with the Expo Go app on your phone or run it on an emulator.
+2. Be sure you have Node version 18 or higher
+3. Run `yarn` or `npm install` to install the dependencies
+4. Run `yarn start` or `npm start` to start the project
+5. Download the Expo Go app on your phone
+6. Scan the QR code with the Expo Go app on your phone or run it on an emulator.
 
 ## Technologies
 
